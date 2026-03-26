@@ -15,6 +15,7 @@ h5,
 ul,
 p,
 figure,
+hr,
 button {
     margin: 0;
     padding: 0;
@@ -23,6 +24,10 @@ button {
 a {
     text-decoration: none;
     color: unset;
+}
+
+hr {
+  width: 100%;
 }
 
 li {
